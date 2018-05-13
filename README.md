@@ -1,2 +1,2 @@
-# gamePython
-simple TicTacToe game
+# python simple tic-tac-toe game
+
